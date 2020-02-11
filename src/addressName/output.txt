@@ -1,0 +1,81 @@
+Enter new address details
+Enter House Number
+12
+Enter Street Name
+westminister
+Enter Town Name
+leicester
+Enter Country Name
+leicestershire
+Enter PostCode
+le1
+Enter new address details
+Enter House Number
+14
+Enter Street Name
+westminister
+Enter Town Name
+leicester
+Enter Country Name
+leicestershire
+Enter PostCode
+le2
+Entered Address
+Index =1, House Number=12, Street Name=westminister, Town=leicester, county=leicestershire, postcode=le1
+Index =2, House Number=14, Street Name=westminister, Town=leicester, county=leicestershire, postcode=le2
+
+/* If the user want to update the address */
+/* Below process occurs for updation */
+Do you want to update the Address?   yes/no
+yes
+Enter the index of the data you want to update
+2
+Enter new address details
+Enter House Number
+67
+Enter Street Name
+tudor
+Enter Town Name
+northampton
+Enter Country Name
+northamptonshire
+Enter PostCode
+na2
+Index =1, House Number=12, Street Name=westminister, Town=leicester, county=leicestershire, postcode=le1
+Index =2, House Number=67, Street Name=tudor, Town=northampton, county=northamptonshire, postcode=na2
+
+*************************************************************************************************************
+
+Enter new address details
+Enter House Number
+12
+Enter Street Name
+westminster
+Enter Town Name
+leicester
+Enter Country Name
+leicestershire
+Enter PostCode
+le1
+Enter new address details
+Enter House Number
+14
+Enter Street Name
+westminster
+Enter Town Name
+leicester
+Enter Country Name
+leicestershire
+Enter PostCode
+le2
+Entered Address
+Index =1, House Number=12, Street Name=westminster, Town=leicester, county=leicestershire, postcode=le1
+Index =2, House Number=14, Street Name=westminster, Town=leicester, county=leicestershire, postcode=le2
+
+/* If the user doesn't want to update the address */
+/* Just the Addresses is displayed */
+Do you want to update the Address?   yes/no
+no
+Entered Address
+Index =1, House Number=12, Street Name=westminster, Town=leicester, county=leicestershire, postcode=le1
+Index =2, House Number=14, Street Name=westminster, Town=leicester, county=leicestershire, postcode=le2
